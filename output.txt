@@ -1,6 +1,4 @@
 Contents of genrative/src//callAPI.js:
-// src/callAPI.js
-
 // Use environment variables for the API key (this requires a .env file or environment configuration)
 require('dotenv').config();  // Load environment variables from .env file (use npm install dotenv)
 
